@@ -1,0 +1,9 @@
+name='Narayana'
+num=10
+float=15.5
+complex=10J
+print(name)
+print(num)
+print(float)
+print(complex)
+print(type(complex))
